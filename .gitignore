@@ -95,3 +95,4 @@ target/
 .npm/
 
 requirements.txt
+data/
