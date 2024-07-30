@@ -93,3 +93,6 @@ target/
 .jupyter/
 .local/
 .npm/
+
+requirements.txt
+data/
